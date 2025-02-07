@@ -1,0 +1,8 @@
+Name: Emmanuel W. Dixon
+id: 191178
+code: if(dixon>18){
+	System.out.println("He is an Adult);
+}
+else{
+	System.out.println("He is still a piken")
+}
