@@ -7,4 +7,4 @@ else{
 	System.out.println("He is still a piken")
 }
 
-Name; mulle
+Name; Potato
